@@ -1,0 +1,9 @@
+.progress{
+ width: 40%;
+ height: 40%;
+ aria-valuenow:"40" ;
+ aria-valuemin:"0";
+aria-valuemax:"100";
+font-size:larger;
+
+}
